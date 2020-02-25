@@ -1,0 +1,17 @@
+.card__background {
+    background: #2C2141;
+    height: 100%;
+    width: 100%;
+    
+}
+
+.card__container {
+    background: floralwhite;
+    width: 682px;
+    height: 366px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    
