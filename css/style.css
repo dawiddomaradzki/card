@@ -1,8 +1,15 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *:after, *:before {
+    box-sizing: inherit;
+}
+
 .card__background {
     background: #2C2141;
-    height: 100%;
-    width: 100%;
-    
+    height: 868px;
+    width: 1400px;   
 }
 
 .card__container {
@@ -12,6 +19,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    border-radius: 16px;
 }
 
     
